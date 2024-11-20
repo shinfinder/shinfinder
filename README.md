@@ -5,6 +5,7 @@
 - 📫 How to reach me shinfinder@gmail.com
 - 😄 Pronouns: Shin/Finder
 - ⚡ Finder, Function "Shin"
+- "The funk is in Shin"
 
 <!---
 shinfinder/shinfinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
